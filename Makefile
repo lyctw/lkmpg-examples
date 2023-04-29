@@ -30,6 +30,8 @@ obj-m := \
   procfs4.o \
   sched.o \
   sleep.o \
+  start.o \
+  stop.o \
   syscall.o \
   vinput.o \
   vinput.h \
